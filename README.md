@@ -1,6 +1,5 @@
-# psu_2015
-Course materials from Pen State Mac Admins 2015 conference talk. 
+# Mac Tech 2015
+Course materials from Mac Tech 2015 conference talk "The 12 Unix Commands Everyone Should Know"
 
-http://macadmins.psu.edu/2015/04/19/psumac2015-70/
-https://github.com/mschnitt/psu_2015
-
+http://conference.mactech.com/event/the-12-unix-commands-everyone-should-know-matthew-schnittker
+https://github.com/mschnitt/MacTech_2015
