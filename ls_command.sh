@@ -1,6 +1,9 @@
 #!/bin/bash
 
 #List contents of the /Volumes directory
+ls /Volumes
+
+#Case preserving but not case sensitive
 ls /volumes
 
 #List /usr/bin
